@@ -1,0 +1,13 @@
+name: AnarchyDupes
+version: 1.0
+main: net.anarchy.dupes.AnarchyDupes
+api-version: '1.21'
+
+commands:
+  anarchydupes:
+    description: AnarchyDupes management GUI command
+    permission: anarchydupes.admin
+    aliases: [ad]
+  dupes:
+    description: View available dupe methods and detailed instructions
+    aliases: [dupe]

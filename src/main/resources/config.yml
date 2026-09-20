@@ -1,0 +1,22 @@
+dupes:
+  item_frame:
+    enabled: true
+    chance: 0.25
+  cactus:
+    enabled: true
+    chance: 0.30
+  dispenser:
+    enabled: true
+    chance: 0.50
+  piston_shulker:
+    enabled: true
+    chance: 1.00
+  donkey:
+    enabled: true
+    chance: 1.00
+  explosion:
+    enabled: true
+    chance: 0.50
+  portal:
+    enabled: true
+    chance: 0.50
